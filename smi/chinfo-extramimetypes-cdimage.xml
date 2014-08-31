@@ -361,7 +361,7 @@
    <generic-icon name="application-x-cd-image"/>
    <magic priority="50">
       <match value="CISO" type="string" offset="0"/>
-   </magic
+   </magic>
    <comment>Compressed ISO image file</comment>
    <comment xml:lang="az">Compressed ISO əks faylı</comment>
    <comment xml:lang="be">Файл вобразу Compressed ISO</comment>
@@ -481,7 +481,7 @@
    <generic-icon name="application-x-cd-image"/>
    <magic priority="50">
       <match value="ECM\x00" type="string" offset="0"/>
-   </magic
+   </magic>
    <comment>ECM'ified image file</comment>
    <comment xml:lang="az">ECM'ified əks faylı</comment>
    <comment xml:lang="be">Файл вобразу ECM'ified</comment>
@@ -541,7 +541,7 @@
    <generic-icon name="application-x-cd-image"/>
    <magic priority="50">
       <match value="GBI" type="string" offset="0"/>
-   </magic
+   </magic>
    <comment>gBurner image file</comment>
    <comment xml:lang="az">gBurner əks faylı</comment>
    <comment xml:lang="be">Файл вобразу gBurner</comment>
@@ -601,7 +601,7 @@
    <generic-icon name="application-x-cd-image"/>
    <magic priority="50">
       <match value="IsZ!" type="string" offset="0"/>
-   </magic
+   </magic>
    <comment>Compressed ISO image file</comment>
    <comment xml:lang="az">Compressed ISO əks faylı</comment>
    <comment xml:lang="be">Файл вобразу Compressed ISO</comment>
