@@ -1,5 +1,14 @@
 chinfo-extramimetypes changelog by Phantom X
 
+Thu Jun 07 19:55:43 -03 2018
+11.2:
+    Added xzm file.
+
+
+Sun Aug 31 17:27:30 -03 2014
+11.1:
+    Fixed cdimage file.
+
 Sat Dec 22 11:12:44 BRST 2012
 11.0:
     Added cso, ecm, gbi, isz, mdx and xmd mimetypes.

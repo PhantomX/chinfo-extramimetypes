@@ -6,7 +6,8 @@ set(SMIFILES chinfo-extramimetypes-cdimage.xml
              chinfo-extramimetypes-gm.xml
              chinfo-extramimetypes-hash.xml
              chinfo-extramimetypes-maf.xml
-             chinfo-extramimetypes-slackbuild.xml )
+             chinfo-extramimetypes-slackbuild.xml
+             chinfo-extramimetypes-xzm.xml )
 
 set(XDG_MIME_INSTALL_DIR "${SHARE_INSTALL_PREFIX}/mime/packages" )
 
