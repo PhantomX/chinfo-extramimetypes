@@ -1,9 +1,12 @@
 chinfo-extramimetypes changelog by Phantom X
 
+Thu Sep 12 19:41:45 -03 2019
+11.3:
+    Fix xzm file encoding
+
 Thu Jun 07 19:55:43 -03 2018
 11.2:
     Added xzm file.
-
 
 Sun Aug 31 17:27:30 -03 2014
 11.1:

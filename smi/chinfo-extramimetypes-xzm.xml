@@ -2,7 +2,7 @@
 <mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
   <mime-type type="application/x-xzm">
     <comment>Porteus Module</comment>
-    <comment xml:lang="pt_BR">Módulo Porteus</comment>
+    <comment xml:lang="pt_BR">MÃ³dulo Porteus</comment>
     <sub-class-of type="application/vnd.squashfs"/>
     <generic-icon name="application-x-raw-disk-image"/>
     <icon name="application-x-raw-disk-image"/>
