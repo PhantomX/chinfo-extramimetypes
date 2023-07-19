@@ -1,5 +1,25 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <mime-info xmlns="http://www.freedesktop.org/standards/shared-mime-info">
+  <mime-type type="text/b2">
+   <glob pattern="*.b2"/>
+   <glob pattern="*.blake2"/>
+   <alias type="text/blake2"/>
+   <sub-class-of type="text/plain"/>
+   <generic-icon name="application-pgp-signature"/>
+   <icon name="application-pgp-signature"/>
+   <comment>BLAKE2 Hash file</comment>
+   <comment xml:lang="pt_BR">Arquivo de hash BLAKE2</comment>
+  </mime-type>
+  <mime-type type="text/b3">
+   <glob pattern="*.b3"/>
+   <glob pattern="*.blake3"/>
+   <alias type="text/blake3"/>
+   <sub-class-of type="text/plain"/>
+   <generic-icon name="application-pgp-signature"/>
+   <icon name="application-pgp-signature"/>
+   <comment>BLAKE3 Hash file</comment>
+   <comment xml:lang="pt_BR">Arquivo de hash BLAKE3</comment>
+  </mime-type>
   <mime-type type="text/md5">
    <glob pattern="*.md5"/>
    <glob pattern="*.md5sum"/>

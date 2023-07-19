@@ -1,5 +1,9 @@
 chinfo-extramimetypes changelog by Phantom X
 
+Wed Jul 19 19:36:11 -03 2023
+12.0:
+    Added BLAKE hashes.
+
 Thu Sep 12 19:41:45 -03 2019
 11.3:
     Fix xzm file encoding
